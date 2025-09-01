@@ -6,7 +6,9 @@ This repository contains AI research papers and related blog posts.
 
 | Title | Author | Date | Link | Notes |
 |-------|--------|------|------|-------|
-| Small robots, mighty vision: NASA Jet Propulsion Laboratory's DINOv2-enabled robot rovers and the future of planetary exploration | Meta | - | [Link](https://ai.meta.com/blog/nasa-jpl-dino-robot-explorers/) |       |
+| Small robots, mighty vision: NASA Jet Propulsion Laboratory's DINOv2-enabled robot rovers and the future of planetary exploration | Meta | - | [Link](https://ai.meta.com/blog/nasa-jpl-dino-robot-explorers/) | DINOv2 used for autonomous navigation and terrain analysis in Mars rovers |
+| How DINOv3 is helping World Resources Institute restore forests and farms globally | Meta | - | [Link](https://ai.meta.com/blog/world-resources-institute-dinov3/) | DINOv3 used for tree counting and forest restoration monitoring |
+| DINOv3: Self-supervised learning for vision at unprecedented scale | Meta | - | [Link](https://ai.meta.com/blog/dinov3-self-supervised-vision-model/) | DINOv3 model trained on 1.7B images with self-supervised learning |
 
 ## Papers
 
@@ -29,3 +31,8 @@ This repository contains AI research papers and related blog posts.
 | Transformers Learn In-Context by Gradient Descent | von Oswald et al. | 2023 | [PDF](papers/Transformers%20Learn%20In-Context%20by%20Gradient%20Descent.pdf) | Shows equivalence between transformer attention and gradient descent |
 | WHAT LEARNING ALGORITHM IS IN-CONTEXT LEARNING? INVESTIGATIONS WITH LINEAR MODELS | Akyürek et al. | 2023 | [PDF](papers/WHAT%20LEARNING%20ALGORITHM%20IS%20IN-CONTEXT%20LEARNING%3F%20INVESTIGATIONS%20WITH%20LINEAR%20MODELS.pdf) | Investigates the learning mechanisms behind in-context learning |
 | Multi-variable continuous time generalised predictive control | Demircioǧlu & Gawthrop | 1992 | [PDF](papers/multi-variable-continuous-time-generalised-predictive-control.pdf) | MCGPC - Multivariable extension of continuous-time generalized predictive control. Significant contribution to Model Predictive Control (MPC) literature, establishing conditions for decoupling and model-following, and showing the relationship with LQ control |
+| DINOv3 | Siméoni et al. | 2025 | [PDF](papers/DINOv3.pdf) | Self-supervised vision model trained on 1.7B images with 7B parameters |
+| Disentangling the Factors of Convergence between Brains and Computer Vision Models | Raugel et al. | 2024 | [PDF](papers/Disentangling%20the%20Factors%20of%20Convergence%20between%20Brains%20and%20Computer%20Vision%20Models.pdf) | Studies how AI vision models develop brain-like representations |
+| Efficient Speculative Decoding for Llama at Scale: Challenges and Solutions | Tang et al. | 2025 | [PDF](papers/Efficient%20Speculative%20Decoding%20for%20Llama%20at%20Scale-%20Challenges%20and%20Solutions.pdf) | Production-scale EAGLE-based speculative decoding for Llama models |
+| FastCSP: Accelerated Molecular Crystal Structure Prediction with Universal Model for Atoms | Gharakhanyan et al. | 2024 | [PDF](papers/FastCSP-%20Accelerated%20Molecular%20Crystal%20Structure%20Prediction%20with%20Universal%20Model%20for%20Atoms.pdf) | Open-source CSP workflow using machine learning interatomic potentials |
+| Open Molecular Crystals 2025 (OMC25) Dataset and Models | Gharakhanyan et al. | 2025 | [PDF](papers/Open%20Molecular%20Crystals%202025%20(OMC25)%20Dataset%20and%20Models.pdf) | Dataset of 27M+ molecular crystal structures from DFT calculations |
